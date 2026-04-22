@@ -1,6 +1,6 @@
 {
   "name": "openclaw-memory-optimizer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An intelligent memory management and optimization system based on KimiClaw design principles",
   "main": "memory-manager.js",
   "bin": {
