@@ -1,0 +1,25 @@
+{
+  "month": "2026年4月",
+  "period": {
+    "start": "2026-03-31",
+    "end": "2026-04-30"
+  },
+  "stats": {
+    "totalMemories": 0,
+    "byPriority": {
+      "CRITICAL": 0,
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 0,
+      "ARCHIVE": 0
+    },
+    "byTag": {},
+    "dailyAverage": 0
+  },
+  "topAccomplishments": [],
+  "trends": {
+    "byDate": {},
+    "trend": "stable"
+  },
+  "timestamp": "2026-04-22T01:25:14.192Z"
+}

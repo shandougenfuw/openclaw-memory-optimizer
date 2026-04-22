@@ -1,0 +1,36 @@
+{
+  "priorityDistribution": [
+    {
+      "priority": "CRITICAL",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "priority": "HIGH",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "priority": "MEDIUM",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "priority": "LOW",
+      "count": 0,
+      "percentage": 0
+    },
+    {
+      "priority": "ARCHIVE",
+      "count": 0,
+      "percentage": 0
+    }
+  ],
+  "peakTimes": {
+    "period": "morning",
+    "active": false
+  },
+  "recommendations": [
+    "Start adding memories to build your knowledge base."
+  ]
+}

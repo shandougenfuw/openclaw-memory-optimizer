@@ -1,0 +1,38 @@
+{
+  "total": 1,
+  "byPriority": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 1,
+    "LOW": 0,
+    "ARCHIVE": 0
+  },
+  "lastUpdated": "2026-04-22T01:24:34.260Z",
+  "stats": {},
+  "memories": [
+    {
+      "id": "mo9de3bngwipr8f",
+      "content": "项目截止日期 - deadline tomorrow",
+      "priority": "MEDIUM",
+      "tags": [],
+      "timestamp": "2026-04-22T01:24:34.259Z",
+      "metadata": {
+        "source": "manual",
+        "processed": false,
+        "insight": {
+          "memoryId": "mo9de3bngwipr8f",
+          "priority": "MEDIUM",
+          "insights": [
+            {
+              "type": "deadline",
+              "weight": 3,
+              "matched": "项目截止日期 - deadline tomorrow"
+            }
+          ],
+          "summary": "项目截止日期 - deadline tomorrow",
+          "timestamp": "2026-04-22T01:24:34.259Z"
+        }
+      }
+    }
+  ]
+}

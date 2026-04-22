@@ -1,0 +1,21 @@
+# IDE 和编辑器
+.workbuddy/
+.vscode/
+.idea/
+
+# 临时文件和脚本
+*.log
+*.tmp
+fix-npm-publish*.bat
+fix-npm-publish*.md
+package-*.json
+
+# 测试和工作目录
+test/
+tests/
+*.test.js
+openclaw-workspace/
+
+# 其他
+.DS_Store
+Thumbs.db
